@@ -4,6 +4,8 @@
 * Copliot can generate a suprising amount of useful code based on comment directives in a relatively open-ended game.
   * > See the image below.
 * I felt a genuine co-creation process. It had ideas that I used, and I had to shape it ideas in turn.
+* Copilot is great at using an existing, well-know API like processing. I hadn't used processing in 10 years, but I could smoothly create without having to look up the API. This suggests that novices may also be able to write code via natural lanugage without any experience with the API.
+  * > E.g., I could say "create a ball" and it would know what that meant. << BTW this is an example coplit suggested. I didn't write it.
 * Copilot is *very* good at inferring reasonable defaults when things are underspecified. It's often not quite right, but reasonable enough to get a sense of whether the code is correct.
   * > E.g., I would say create a ball, and it would choose a reasonable starting point (center of the screen) and size and color
 
