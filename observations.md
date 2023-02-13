@@ -21,6 +21,8 @@ I spent about 90 minutes creating a simple game using processing and coplot, wri
   * I think this is a real opportunity to deveop some sort of wrapper to make it easier to iterate, modify and debug.
 * Students might need to learn how and when to be more specific with their commands
   * > E.g., when do I say "create a ball" vs "create a ball in the center of the screen with a "
+* Copilot has some interesting notions of art and how to connect natural language to code to graphics.
+  * > E.g., when I asked it to make cracks appear in the bricks to show their damage, it decided to draw little dice pips. I think they're cute.
 
 
 ## Potential challenges:
